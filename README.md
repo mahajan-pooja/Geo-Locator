@@ -7,8 +7,8 @@ I have created this App in my Masters degree(MCA) Android course.
 
 SCREENSHOTS:
 
-![alt 1](screenshots/img1.jpg)
-![alt 2](screenshots/img2.jpg)
-![alt 3](screenshots/img3.jpg)
-![alt 4](screenshots/img4.jpg)
-![alt 5](screenshots/img5.jpg)
+![alt 1](screenshots/img1.png)
+![alt 2](screenshots/img2.png)
+![alt 3](screenshots/img3.png)
+![alt 4](screenshots/img4.png)
+![alt 5](screenshots/img5.png)
